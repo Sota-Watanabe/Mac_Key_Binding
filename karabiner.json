@@ -134,7 +134,7 @@
                                 "to": [
                                     {
                                         "select_input_source": {
-                                            "input_source_id": "com.google.inputmethod.Japanese.Roman"
+                                            "input_source_id": "com.apple.keylayout.US"
                                         }
                                     }
                                 ],
@@ -162,11 +162,10 @@
                                 "to": [
                                     {
                                         "select_input_source": {
-                                            "input_source_id": "com.google.inputmethod.Japanese.base"
+                                            "input_source_id": "com.apple.inputmethod.Kotoeri.RomajiTyping.Japanese"
                                         }
                                     }
                                 ],
-
                                 "type": "basic"
                             }
                         ]
